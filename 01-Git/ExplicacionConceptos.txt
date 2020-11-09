@@ -1,0 +1,23 @@
+Explicacion de Conceptos
+
+* Variables. 				es un espacio en la memoria que guarda un dato que puede ser un numero (int,float etc), una letra(char), texto(string) o un falso o verdadero (false || true)
+
+
+* Strings. 			es un tipo de variable, que puede alojar dentro de si cualquier dato de tipo texto, inclusive si introducimos alli numeros tambien van a ser 
+				entendidos como texto osea no se podrian realizar operaciones matematicas con ellos solo se podrian leer, estos datos o cadenas de texto deben 
+				ir dentro de comillas dobles o simples para que se diferencien de palabras clave, nombres de variables o algun comando establecido dentro del 
+				lenguaje como tal. ejemplo "Hola Mundillo!"
+
+* Funciones (argumentos, `return`) 	las Funciones son grupos de instrucciones que diseñamos por medio de codigo, para que se realice alguna tarea especificamente, y con estas funciones 
+				   	podemos ahorrar mucho tiempo y esfuerzo, ya que podremos usarlas mas adelante en nuestro programa para que se repita la funcion solo nombrandola, 
+					esto incluira todos los codigos que hayan sido almacenados dentro de ella, para ser mas especificos en su funcionamiento podemos utilizar 'argumentos'
+					estos nos permiten asignar diferentes variables en el momento de reutilizar cada funcion. y 'return' nos permite ordenar a la funcion que nos devuelva
+					el resultado de la funcion
+
+* Declaraciones `if`			esta declaracion nos ayuda a evaluar una o varias condiciones con el fin de ejecutar una orden u otra segun sea el caso, por ejemplo si la condicion
+					es verdadera se ejecutara una accion y si es falsa se ejecutara otra accion, es una herramienta muy util que se puede aplicar en multiples casos segun
+					la pericia del programador
+
+* Valores booleanos (`true`, `false`)	son un tipo de variable la cual solo puede tener dos opciones 'true' (verdadero) o 'false'(falso), esto con el fin de ayudar en los procedimientos
+					de tomas de decision en un programa, ya que si una condicion es 'true' el flujo se orientara en una direecion y 'false' obligara a que se tome otra direccion
+					tienen muchas maneras de ser utilizados en conjunto con las expresiones condicionales y los bucles.
