@@ -189,8 +189,8 @@ function redondearNumero(num) {
 function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba y devuélvelo
   // Tu código:
-  var redondeararriba = Math.ceil(num);
-  return redondeararriba;
+  var redonarriba = Math.ceil(num);
+  return redonarriba;
 }
 
 function agregarSimboloExclamacion(str) {
