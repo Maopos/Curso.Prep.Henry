@@ -1,0 +1,12 @@
+
+
+
+	FOR:	Es un bucle, osea que nos permite repetir varias veces (las veces que queramos) una expresion, esto lo hace despues de 			evaluar una condicional, mientras se cumpla la condicional se sigue repitiendo hasta que se deje de cumplir.
+
+	&&:		Significa 'AND' o 'Y' con ella se pueden evaluar dos concionales al mismo tiempo, si ambas se cumplen el sistema devuelve
+			TRUE, si una de las dos o ninguna se cumple el sistema devuelve FALSE.
+
+	||: 	Significa 'OR' o 'O' con ella se pueden evaluar dos condicionales al mismo tiempo, si solo una o ambas se cumplen el 			sistema devuelve TRUE y solo si ambas NO se cumplen el sistema devuelve FALSE.
+
+	!:		Es un operador logico que significa 'NOT' o 'NO', sirve para cambiar el valor de una expresion por su valor  booleano 
+			opuesto por ejemplo 10 = 10 esto es TRUE, al utilizar '!' quedaria, 10 != 10 esto es FALSE.
