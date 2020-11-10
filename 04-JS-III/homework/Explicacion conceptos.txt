@@ -1,0 +1,6 @@
+
+
+ARRAYS :	Un array o un arreglo es como un contenedor de varios datos, alli se pueden 
+		guardar variables de todos los tipos, inclusive se pueden guardar funciones 
+		e inclusive otros arreglos, son listas de elementos que podemos consultar mas 
+		adelante para utilizar sus elementos asi mismo podemos incluir o borrar sus datos.
