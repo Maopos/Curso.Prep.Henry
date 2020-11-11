@@ -1,0 +1,19 @@
+
+* Objetos:			es una estructura de datos que estan asociados a un valor, esto nos permite 
+				abstraer cualquier objeto de la realidad y ubicarlo en un programa
+
+* Propiedades:			son claves que utilizamos para asignarles valores que tienen que ver con las
+				caracteristicas del objeto en si.
+
+* Métodos			es una funcion que esta asignada como un valor dentro de la clave de un 
+				objeto. 
+
+* Bucle `for…in`		es un bucle de tipo for que se utiliza para las propiedades(claves) y sus valores 
+				ya que estas claves no son de tipo numerico.
+				 
+
+* Notación de puntos 
+vs notación de corchetes:	estas se utilizan para acceder a los valores de las propiedades o claves del
+				objeto. En la notacion de puntos se escribe el nombre del objeto, un punto y el
+				nombre de la clave. en notacion de corchetes ponemos el nombre corchetes y adentro
+				el nommbre de la clave entre comillas.
