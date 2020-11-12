@@ -1,0 +1,13 @@
+
+
+
+* `prototype`:					son funciones de las clases o metodos que luego se pueden 
+								utilizar en cada uno de los objetos para ahorrar trabajo y 
+								memoria.					
+
+
+
+* _Constructors_ (de Clases):	es una funcion que nos permite crear una clase, 								
+								para que los objetos que estaran contenidos en ella 
+								tengan todos las mismas propiedades. su nombre debe 
+								empezar con mayuscula.
