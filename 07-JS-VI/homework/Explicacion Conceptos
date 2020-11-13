@@ -1,0 +1,7 @@
+
+
+
+
+* Funciones Callback:	son Funciones que se utilizan como argumentos dentro de otra funcion,
+                        de esta manera se puede dar mas agikidad en el momento de programar, 
+                        sobre todo al momento de trabajar con arreglos.
